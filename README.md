@@ -6,4 +6,5 @@
 AndreaNav2/AndreaNav2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![mind blowing](https://user-images.githubusercontent.com/106705723/171496145-75753824-1778-4f5e-ad14-c809338177df.jpg)
+
+![mindb](https://user-images.githubusercontent.com/106705723/171496932-f8e2c1d3-4cad-41dc-a618-3d508f0d6ae6.jpg)
